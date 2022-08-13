@@ -29,3 +29,6 @@ none;
 [Email](mailto:dominicfisher182001@gmail.com)
 [Github](https://github.com/Dominic_Fisher18)
 
+## Video Walkthrough Link
+
+https://drive.google.com/file/d/1lv7y6z2xYTwum88QKOw6LUBXebh_0tQN/view?usp=sharing
