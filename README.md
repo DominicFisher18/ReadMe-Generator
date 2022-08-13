@@ -1,8 +1,8 @@
 
-# Readme Generator
+# ReadMe Generator
 ![Javascript](https://img.shields.io/badge/License-Javascript-blueviolet)
 
-## Table of content:
+## Table of contents:
 ######[Description](#Description)
 ######[Installation](#Installation)
 ######[Usage](#Usage)
@@ -11,55 +11,21 @@
 ######[For questions or concers, please go to contact:](#Contact)
 
 ##Description:
-This applications allows you to professionally create a Readme.md file.;
+a project that generates a read.me file;
 
-## Installation:
-Cloning the repository.;
+##Installation:
+none;
 
-## Usage:
-Run application in terminal using node with the help of inquirer.;
+##Usage:
+as a way to generate a read.me file;
 
-## Contributions:
-Dominic Fisher
+##Contributions:
+Dominic Fisher;
 
-## Tests:
-No tests are required.;
+##Tests:
+none;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Contact
+##Contact:
 [Email](mailto:dominicfisher182001@gmail.com)
-[Github](https://github.com/DominicFisher18)
+[Github](https://github.com/Dominic_Fisher18)
 
